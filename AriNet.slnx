@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AriNetClient.WebSocket/AriNetClient.WebSocket.csproj" />
+  <Project Path="AriNetClient/AriNetClient.csproj" />
+</Solution>

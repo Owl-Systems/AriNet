@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../AriNet.PBX.WebSockets/AriNet.PBX.WebSockets.csproj" Id="8d6eda6c-bbf2-4913-b492-8d9ffd00bb0d" />
+  <Project Path="../AriNetClient.WebSocket/AriNetClient.WebSocket.csproj" />
+  <Project Path="AriNetClient.csproj" />
+</Solution>
